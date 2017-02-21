@@ -1,2 +1,3 @@
 # now-cloud
-Where you can report bugs of our platform
+
+This is where users can report bugs of the [Now](https://zeit.co/now) platform (a.k.a. "cloud").
