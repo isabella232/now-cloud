@@ -1,3 +1,7 @@
+# Deprecation Notice
+
+This repository has been deprecated. Use [our community chat](zeit.co/chat) or email support@zeit.co for any assistance.
+
 # now-cloud
 
 This is where users can report bugs of the [Now](https://zeit.co/now) platform (a.k.a. "cloud").
